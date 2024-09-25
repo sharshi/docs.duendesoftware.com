@@ -30,6 +30,10 @@ with IdentityServer, invoke a local API hosted in the backend (secured with
 cookie authentication), invoke a remote API running in a different host (secured
 with an access token), and logout of IdentityServer.
 
+In addition to the written steps below a YouTube video is available:
+
+{{< youtube "L2QEFLyz-KE" >}}
+
 
 ## New Project for the JavaScript client and BFF
 
